@@ -22,5 +22,8 @@ https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 https://github.com/xdvrx1/what-is-github  
 https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/  
 https://blog.pronus.io/posts/controle-de-versao/conceitos-basicos-de-controle-de-versao-de-software-centralizado-e-distribuido/  
-
+<br>
+#### Créditos:
+ - Pesquisa: Daniel Neto
+ - Tradução e Adaptação: Smith
 
