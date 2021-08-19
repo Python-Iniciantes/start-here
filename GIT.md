@@ -15,3 +15,12 @@ Imagine a seguinte cena: três pessoas estão criando um site, cada uma atuando 
 Para resolver esse problema, todas as máquinas e seus repositórios (também chamado de **repositórios locais**) devem estar conectados a um repositório principal (chamado de **repositório remoto**). Sempre que fazemos alterações substanciais no local enviamos para o remoto, logo todos os outros que estão envolvidos no projeto podem baixá-las.    
 <br>
 A principal ferramenta hospedagem e gerenciamento de repositório remoto que temos hoje é o **GitHub**.   
+
+***
+#### Fontes:
+https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control  
+https://github.com/xdvrx1/what-is-github  
+https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/  
+https://blog.pronus.io/posts/controle-de-versao/conceitos-basicos-de-controle-de-versao-de-software-centralizado-e-distribuido/  
+
+
